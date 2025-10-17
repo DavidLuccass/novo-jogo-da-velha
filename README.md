@@ -8,5 +8,5 @@
 
 **Jogadores**
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ Lucas 1 
+- ⭕ Lucas 2
